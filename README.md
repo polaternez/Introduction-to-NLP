@@ -4,12 +4,12 @@ Its goal is to build systems that can make sense of text and automatically perfo
 
 This project contains following topics:
 
-1. NLP Basics
-    * Tokenization
-    * Stemming
+* NLP Basics
+   * Tokenization
+   * Stemming
    * Lemmatization
    * Stop Words
-2. Part-of-speech tagging
-3. Named-entity recognition
-4. Sentiment analysis
-5. Topic modeling
+* Part-of-speech tagging
+* Named-entity recognition
+* Sentiment analysis
+* Topic modeling
